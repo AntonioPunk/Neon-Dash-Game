@@ -1,8 +1,10 @@
 # Neon Dash
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A one-button arcade browser game built with vanilla HTML, CSS, and JavaScript (Canvas 2D). Control a glowing orb that jumps to avoid incoming neon obstacles. Easy to learn, hard to master.
 
-**[Play it live](https://antonio-pozo.github.io/NeonDash_Game/)**
+**[Play it live](https://antoniopunk.github.io/Neon-Dash-Game/)**
 
 ## How to Run
 
@@ -67,5 +69,10 @@ neon-dash/
 ├── style.css        # Full-page dark styling, canvas sizing, sound toggle button
 ├── script.js        # All game logic, rendering, audio, input
 ├── SPEC.md          # Detailed specification
+├── LICENSE          # MIT License
 └── package.json     # Dev script for http-server
 ```
+
+## License
+
+MIT © [Antonio Arias Ureta](https://github.com/AntonioPunk)

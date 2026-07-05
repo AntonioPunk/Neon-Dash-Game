@@ -1,5 +1,8 @@
 # Neon Dash — Agent Guide
 
+**Repo**: `git@github.com:AntonioPunk/Neon-Dash-Game.git`  
+**License**: MIT — see [LICENSE](LICENSE)
+
 ## Run
 
 ```bash

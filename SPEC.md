@@ -14,6 +14,7 @@ neon-dash/
 ├── style.css        # Full-page dark styling, canvas sizing, sound toggle button
 ├── script.js        # All game logic, rendering, audio, input
 ├── package.json     # Dev script using http-server
+├── LICENSE          # MIT License
 └── SPEC.md          # This document
 ```
 
@@ -245,3 +246,11 @@ pnpm dev
 ```
 
 No build step. Open `http://localhost:3000` in any modern browser.
+
+---
+
+## License
+
+MIT © [Antonio Arias Ureta](https://github.com/AntonioPunk)
+
+See [LICENSE](LICENSE).
